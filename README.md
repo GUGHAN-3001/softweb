@@ -664,7 +664,8 @@ Publish the website in the given URL.
 
 ![Screenshot 2024-04-30 084154](https://github.com/GUGHAN-3001/softweb/assets/150009432/a5eb6afe-b310-4e4d-992f-1bfbb93ed878)
 
-![Screenshot 2024-04-30 084209](https://github.com/GUGHAN-3001/softweb/assets/150009432/58f50d7e-71b7-42e3-afbf-a4a0a4515ffd)
+![GUGHAN S](https://github.com/GUGHAN-3001/softweb/assets/150009432/227d61c9-8b1a-4f07-9f72-b25fd83ce0a5)
+
 
 
 
